@@ -2,3 +2,7 @@ body {
     margin: 1em;
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
 }
+
+#answers-wrapper > div {
+    max-width: 900px;
+}
